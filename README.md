@@ -16,6 +16,11 @@ As seen above, the highest risk moments are times when the aircraft is on the ru
 
 <img width="480" alt="Screenshot 2024-10-28 at 11 55 46 AM" src="https://github.com/user-attachments/assets/46814ac1-aece-4de3-8086-2b100a152069">
 
+Further exploration was done to determine the animals that were most involved in the wildlife strike events. As initially thought, birds are far and away the most frequent animal category involved in strikes:
+
+<img width="480" alt="Screenshot 2024-10-28 at 11 59 24 AM" src="https://github.com/user-attachments/assets/a5b7d021-0c1a-4c64-9b76-aedb1c27a3f0">
+
+
 
 ### Dashboard Creation
 
