@@ -8,7 +8,7 @@ Wildlife Strikes represent a very serious risk to pilots and passengers of aircr
 
 ## Process
 ### Data Exploration
-The data set was fortunately very clean and prepared which allowed me to jump right into the fun part. After reviewing the the data types present in the data set, a simple visualization was created to indetify any high risk times for wildlife strikes:
+The data set was fortunately very clean which allowed me to jump right into the fun part. After reviewing the data types present in the data set, a simple visualization was created to indetify any high risk times for wildlife strikes:
 
 <img width="480" alt="Strikes by Flight Stage" src="https://github.com/user-attachments/assets/c309ab4c-1e5b-4c98-86e6-595850776871">
 
@@ -32,7 +32,7 @@ This dashboard can be filtered by Airport, State, Month, Hour of the day, and Ph
 By clicking the bird, pilots will be directed to the BirdCast Live Migration Map. As birds are most prevelant in strikes, this map allows pilots to see if there are any large migration events occuring near their take of and landing locations.
 
 ## Results
-Option 2 was chosen for this project and I wanted to indentify if there were any high-risk times of the year for wildlife strikes. This lead me down the path of discovering high-risk locations, times of day, and phases of flight. With that information and the corresponding visualiztions ready, I decided to create a dashboard to be used by pilots. Wildlife strikes can be very dangerous events, and it is important for pilots to have all of the information they can to reduce the risk of these events occuring. In this case, providing pilots with information may help them make more informed decisions regarding take-off and landing, or even just keep a better eye out for potential dangers.
+Option 2 was chosen for this project and I wanted to indentify if there were any high-risk times of the year for wildlife strikes. This lead me down the path of discovering high-risk locations, times of day, and phases of flight. With that information and the corresponding visualiztions ready, I decided to create a dashboard to be used by pilots. Wildlife strikes can be very dangerous events, and it is important for pilots to have all of the information they can to reduce the risk of these events occuring. The dashboard will allow pilots to gain insights on the risk of wildlife strikes by time of day and location. Providing pilots with this data may help them make more informed decisions regarding take-off and landing, or even just keep a better eye out for potential dangers.
 
 
 ## Future Goals
