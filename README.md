@@ -1,7 +1,10 @@
 # Final-Project-Tableau
 
+<img width="470" alt="Screenshot 2024-10-28 at 11 09 04 AM" src="https://github.com/user-attachments/assets/7c475a0b-2e40-4d75-b1b6-1e926366bb37">
+
 ## Project/Goals
-(fill in your description and goals here)
+
+Wildlife Strikes represent a very serious risk to pilots and passengers of aircraft. Using historical data from the FAA, a dashboard was created to allow pilots to have a better understanding of the potential strike risks during their upcoming flight.
 
 ## Process
 ### (your step 1)
