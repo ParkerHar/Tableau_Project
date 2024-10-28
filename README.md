@@ -29,7 +29,7 @@ With some trends already discovered, a dashboard was created to allow pilots to 
 
 This dashboard can be filtered by Airport, State, Month, Hour of the day, and Phase of the Flight providing an interactive way for pilots to get a sense of the risk level for strikes at their takeoff and landing times/locations.
 
-By clicking the bird, pilots will be directed to the BirdCast Live Migration Map. As birds are most prevelant in strikes, this map allows pilots to see if there are any large migration events occuring near their take of and landing locations.
+By clicking the bird, pilots will be directed to the BirdCast Live Migration Map. As birds are most prevelant in strikes, this map allows pilots to see if there are any large migration events occuring near their take off and landing locations.
 
 ## Results
 Option 2 was chosen for this project and I wanted to indentify if there were any high-risk times of the year for wildlife strikes. This lead me down the path of discovering high-risk locations, times of day, and phases of flight. With that information and the corresponding visualiztions ready, I decided to create a dashboard to be used by pilots. Wildlife strikes can be very dangerous events, and it is important for pilots to have all of the information they can to reduce the risk of these events occuring. The dashboard will allow pilots to gain insights on the risk of wildlife strikes by time of day and location. Providing pilots with this data may help them make more informed decisions regarding take-off and landing, or even just keep a better eye out for potential dangers.
